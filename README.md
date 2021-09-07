@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MaKr85
 - 👀 I’m interested in Data Architecture, Cloud, SQL, Databases
 - 🌱 I’m currently learning Databricks, Azure, Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: kramer_matthias_kg@gmx.de
 
 <!---
 MaKr85/MaKr85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
